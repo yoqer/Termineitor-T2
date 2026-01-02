@@ -6,6 +6,12 @@
 
 ## 🚀 ¡Únete a la Revolución!
 
+
+![t2000-terminator](https://github.com/user-attachments/assets/acbd1f58-468a-47c2-88d5-91581cfcc08d)
+
+
+
+
 **Amalia Gamma** es un proyecto *Open Source* diseñado para democratizar la robótica avanzada y la Inteligencia Artificial encarnada. Nuestro objetivo es crear un robot humanoide minimalista, modular y asequible, capaz de aprender de forma autónoma a través de *Reinforcement Learning* (RL) en entornos virtuales (Britetrainer/Omniverse), utilizando una arquitectura de software agnóstica al hardware.
 
 **Este proyecto es una invitación abierta a ingenieros, desarrolladores y entusiastas para colaborar en la próxima generación de robótica doméstica.**
